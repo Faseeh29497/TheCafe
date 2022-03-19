@@ -1,0 +1,9 @@
+git = everone has one copy of repo/project 
+
+git config --global user.name Faseeh
+git config --global user.email faseeh29497@gmail.com
+
+git init  (initialize)
+
+commands:
+ls-lart (show all folders even hidden too)
